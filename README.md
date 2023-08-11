@@ -1,6 +1,9 @@
 # Ankit Bharat Tanna
 ## Fullstack Developer - Angular/ReactJS & NodeJS developer
-
+-----
+:telephone_receiver:: +61 431 961 791
+:e-mail:: ankittanna@hotmail.com 
+-----
 ### Hi there 👋
 
 <!--
