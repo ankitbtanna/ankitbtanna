@@ -1,4 +1,6 @@
 # Ankit Bharat Tanna
+## Fullstack Developer
+## Angular/ReactJS & NodeJS developer
 
 ### Hi there 👋
 
