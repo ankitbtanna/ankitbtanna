@@ -1,4 +1,5 @@
-# Ankit Bharat Tanna
+# <h1 style="text-align: center;">Ankit Bharat Tanna/h1>
+
 ## Fullstack Developer - Angular/ReactJS & NodeJS developer
 
 #### :telephone_receiver: +61 431 961 791
