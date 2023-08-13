@@ -1,4 +1,6 @@
-<p style="text-align: center;">Ankit Bharat Tanna</p>
+<p align="center">
+  Ankit Bharat Tanna
+</p>
 
 ## Fullstack Developer - Angular/ReactJS & NodeJS developer
 
