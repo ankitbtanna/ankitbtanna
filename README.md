@@ -10,7 +10,8 @@
 #### :e-mail: ankittanna@hotmail.com 
 #### :pushpin: Brisbane, QLD, Australia
 ---
-#### Hi there 👋
+#### I’m a motivated individual with around 10.5 years of experience in Frontend/NodeJS application development. I have worked in several domains like banking, oil and gas, eLearning, eCommerce, etc. I have played roles like developer, scrum master, trainer, and product evangelist for in-house design frameworks. I like to be familiar with design patterns and features of core programming languages helping me solve daily problems. I run a YouTube channel called EverydayJavaScript, where I teach features about Web Technologies.
+---
 
 <!--
 **ankitbtanna/ankitbtanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
