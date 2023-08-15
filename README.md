@@ -27,11 +27,12 @@
 ----
 ### Skills
 
----
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node-green?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
+----
 
 <!--
 **ankitbtanna/ankitbtanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
