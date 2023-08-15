@@ -24,6 +24,11 @@
 | HSBC                           | Senior Software Engineer     | September 2017 – November 2018 |
 | Accenture                      | Fresher to Team Lead         | May 2012 – September 2017      |
 
+----
+### Skills
+
+---
+
 <!--
 **ankitbtanna/ankitbtanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
