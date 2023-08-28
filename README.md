@@ -41,7 +41,16 @@
 ![NxNrwl](https://img.shields.io/badge/NxNrwl-darkblue?style=for-the-badge)
 
 ----
+### Education and Certifications
 
+## Bachelor’s in technology, Computer Engineering
+*University: NMIMS-MPSTME, Shirpur, Maharashtra*
+
+## AWS Certified Cloud Practitioner
+*AWS*
+
+## Certified Scrum Master
+*LeanPitch*
 ----
 
 <!--
