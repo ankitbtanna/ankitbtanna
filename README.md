@@ -50,6 +50,7 @@
 * #### Certified Scrum Master - *LeanPitch*
 
 ----
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" />
 
 ----
 
