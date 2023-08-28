@@ -66,10 +66,10 @@
 - Document guidelines for clean code and responsible for consistent/improved developer experience in VS Code as the team grew larger.
 
 ### **Technology Stack:**
-**Frameworks and Run Time:** Nx Nrwl, Angular 14/15, NestJS/NodeJS
-**Tooling:** TypeScript, SCSS
-**Core:** HTML5, CSS3, JavaScript
-**Cloud:** GCP/Azure
+- **Frameworks and Run Time:** Nx Nrwl, Angular 14/15, NestJS/NodeJS
+- **Tooling:** TypeScript, SCSS
+- **Core:** HTML5, CSS3, JavaScript
+- **Cloud:** GCP/Azure
 
 
 ----
