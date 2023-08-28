@@ -44,13 +44,13 @@
 ### Education and Certifications
 
 #### Bachelor’s in technology, Computer Engineering
-*University: NMIMS-MPSTME, Shirpur, Maharashtra*
+##### *University: NMIMS-MPSTME, Shirpur, Maharashtra*
 
 #### AWS Certified Cloud Practitioner
-*AWS*
+##### *AWS*
 
 #### Certified Scrum Master
-*LeanPitch*
+##### *LeanPitch*
 
 ----
 
