@@ -51,6 +51,7 @@
 
 #### Certified Scrum Master
 *LeanPitch*
+
 ----
 
 <!--
