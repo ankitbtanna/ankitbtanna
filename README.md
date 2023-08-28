@@ -45,15 +45,12 @@
 
 #### Bachelor’s in technology, Computer Engineering
 *University: NMIMS-MPSTME, Shirpur, Maharashtra*
---
 
 #### AWS Certified Cloud Practitioner
 *AWS*
---
 
 #### Certified Scrum Master
 *LeanPitch*
---
 ----
 
 <!--
