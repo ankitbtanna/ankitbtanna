@@ -122,7 +122,47 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - **Libraries:** MomentJS, AppDynamics
 
 ----
+<p align="center"><img src="https://assets.stickpng.com/images/6102dbf43de48b00044eb5af.png" style="height:150px"/></p>
 
+### **Project:** Sky Mobile - BSKYB (Jan 2016 – Sep, 2017)
+*BSKYB was venturing into telecommunications by introducing their mobile plans. I worked on their portal for client service representatives which helped manage influx of queries and complaints that customer had. I also worked on their customer-facing website sky.com which was the primary website representing the BSKYB brand. I worked at their client location in Edinburgh, UK giving me first-hand exposure to working with clients.*
+
+### **Key Roles and Responsibilities:**
+- I helped migrate their Angular 1.x portal to Angular 2 and subsequently upgrading to Angular 4.
+- I helped build responsive and accessible websites that were customer facing.
+- I lead the team for 3 months through the bug triages which helped address 300 bugs across the system by prioritizing them, interacting with clients on their expectations and interacting with different teams. This helped me gain more knowledge about the system.
+- I trained my colleagues on Angular framework features.
+
+### Technology Stack:
+- **Framework:** Angular 1.x, Angular 2/4, AureliaJS
+- **Core:** HTML5, CSS3, JavaScript
+- **Tooling:** TypeScript, SCSS
+
+### **Project:** TechTime (May 2012 – Dec, 2015)
+*TechTime ecosystem is an eLearning tool of Accenture where leaders of various Accenture Businesses talk about their experiences with latest technologies and how it shapes the industry. The ecosystem comprised of Hybrid Mobile Applications for iOS, Android and Windows phone, a website and a desktop application for downloading and syncing videos to mobile.*
+
+### **Key Roles and Responsibilities:**
+- As a fresher, learn Web Technologies and Hybrid Mobile Application development using PhoneGap
+- Analyze UX consistency for all the platforms of features
+- Develop features utilizing native features of the platform and write unit tests
+- Interact with client to understand the requirement
+- Demonstrate the application to wider audience in Accenture
+- Lead the effort to build a Desktop sync utility to save data for users
+- Increase usability of the application by adding offline mode where content can be accessed if user does not have internet.
+
+### Technology Stack:
+- **Framework:** Angular 1.x, PhoneGap/Cordova
+- **Core:** HTML5, CSS3, JavaScript
+- **Library:** Bootstrap
+
+----
+**Accenture Innovation Factory:** During my 5-year tenure at Accenture, I was part of innovation factory which worked with JavaScript SDKs and IoT devices.
+- LEAP Motion
+- Myo Armband
+- Oculus Rift
+- Google Glass
+- Aurdino/RaspberryPi
+----
 <!--
 **ankitbtanna/ankitbtanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
