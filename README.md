@@ -102,7 +102,24 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - **Methodology:** CUBE CSS
 - **Tooling:** SCSS
 ----
-<div style="background-color:white"><p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p></div>
+<p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p>
+
+### **Project:** HSBC Internet Banking (Sep 2017 – Nov, 2018)
+*HSBC Internet Banking project was an initiative to roll out enhanced user experience along with new banking features to their customers across 70 countries. Prime focus was on developing authorable components giving control to the business of the functionality of the components.*
+
+### **Key Roles and Responsibilities:**
+- Created a PoC of using AEM as authoring tool along with published Angular Components in AEM.
+- Setup authoring mechanism for error messages/codes and functionality and were controlled by business for all the languages/countries.
+- Established a process to pass content/functionality authoring were passed through two stages of approval to avoid mishaps.
+- Developed Angular components which were re-usable and publishable.
+- Integrated AppDynamics and XMatters to track user journey and API performance degradations or failures.
+- Implemented Accessibility (AA compliance) in the internet banking application. Setup mechanisms to test accessibility on VoiceOver and JAWS
+
+### **Technology Stack:**
+- **Frameworks and Run Time:** Angular, AEM
+- **Tooling:** TypeScript, SCSS
+- **Core:** HTML5, CSS3, JavaScript
+- **Libraries:** MomentJS, AppDynamics
 
 ----
 
