@@ -102,7 +102,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - **Methodology:** CUBE CSS
 - **Tooling:** SCSS
 ----
-<p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p>
+<div style="background:white"><p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p></div>
 
 ----
 
