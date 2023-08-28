@@ -122,7 +122,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - **Libraries:** MomentJS, AppDynamics
 
 ----
-<p align="center"><img src="https://assets.stickpng.com/images/6102dbf43de48b00044eb5af.png" style="height:150px"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/640px-Accenture.svg.png" style="height:150px"/></p>
 
 ### **Project:** Sky Mobile - BSKYB (Jan 2016 – Sep, 2017)
 *BSKYB was venturing into telecommunications by introducing their mobile plans. I worked on their portal for client service representatives which helped manage influx of queries and complaints that customer had. I also worked on their customer-facing website sky.com which was the primary website representing the BSKYB brand. I worked at their client location in Edinburgh, UK giving me first-hand exposure to working with clients.*
