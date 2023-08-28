@@ -71,7 +71,36 @@
 - **Core:** HTML5, CSS3, JavaScript
 - **Cloud:** GCP/Azure
 
+----
+<p align="center"><img src="https://companieslogo.com/img/orig/ZENSARTECH.NS_BIG-943eb02e.png" style="height:150px"/></p>
 
+*I decided to join Zensar to take a break from delivery projects and work on training as a full time. Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.*
+
+### **Key Roles and Responsibilities:**
+- Design curriculum for Freshers and Experienced professionals for generic/project specific training
+- Deliver trainings for a batch of 20-30 people for varied durations ranging from 1 week to 6/8 weeks.
+- Prepare course material for smooth training delivery
+- Develop course content that can be comprehended by trainees who are very new to code and prepare functional use cases for experienced who are looking to understand the feature of a language/framework.
+- Prepare tests for evaluating the training knowledge
+
+### **Technologies I delivered training on:**
+- **Core:** HTML5, CSS3, JavaScript
+- **Tooling:** SCSS, TypeScript, Bootstrap 4
+- **Frameworks and Libraries:** Angular, jQuery
+- **Run Time:** NodeJS
+
+### **Project:** MasterCard Design Framework (Oct 2019 – Jan, 2020)
+MasterCard Design Framework was started as one of the projects under the rebranding effort of all the MasterCard products/portals which were online. This meant that look and feel would be consistent across the portals around the world.
+
+### **Key Roles and Responsibilities:**
+- Developed reusable and small authorable components like cards, nav bars, footers, buttons.
+- Designed SCSS architecture structure for their style framework as a part of their portal rebranding effort.
+- Introduced CUBE CSS – Composition, Utility, Block and Element methodology to write less component specific styles and more of generic styles.
+
+### **Technology Stack:**
+- **Core:** CSS3
+- **Methodology:** CUBE CSS
+- **Tooling:** SCSS
 ----
 
 <!--
