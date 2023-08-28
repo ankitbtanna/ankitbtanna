@@ -36,6 +36,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/Cypress-lightgreen?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-darkred?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-maroon?style=for-the-badge)
+
+----
 
 ----
 
