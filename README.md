@@ -102,6 +102,9 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - **Methodology:** CUBE CSS
 - **Tooling:** SCSS
 ----
+<p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p>
+
+----
 
 <!--
 **ankitbtanna/ankitbtanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
