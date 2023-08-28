@@ -32,7 +32,10 @@
 ![NodeJS](https://img.shields.io/badge/Node-green?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-lightblue?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-lightgreen?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-darkred?style=for-the-badge)
 
 ----
 
