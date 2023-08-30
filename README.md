@@ -18,7 +18,6 @@
 
 | Organization Name              | Last Designation             | Duration                       |
 | ------------------------------ | ---------------------------- | ------------------------------ |
-| Auto & General (Budget Direct) | Senior Software Engineer     | July, 2023 - Present           |
 | SLB (aka Schlumberger)         | Senior Software Engineer     | January, 2020 - July, 2023     |
 | Zensar Technologies            | Technology Specialist        | November 2018 - January, 2020  |
 | HSBC                           | Senior Software Engineer     | September 2017 – November 2018 |
