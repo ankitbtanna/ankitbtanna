@@ -18,7 +18,7 @@
 
 | Organization Name              | Last Designation             | Duration                       |
 | ------------------------------ | ---------------------------- | ------------------------------ |
-| SLB (aka Schlumberger)         | Senior Software Engineer     | January, 2020 - July, 2023     |
+| SLB (aka Schlumberger)         | Senior Software Engineer     | January, 2020 - Present        |
 | Zensar Technologies            | Technology Specialist        | November 2018 - January, 2020  |
 | HSBC                           | Senior Software Engineer     | September 2017 – November 2018 |
 | Accenture                      | Fresher to Team Lead         | May 2012 – September 2017      |
