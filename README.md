@@ -68,7 +68,7 @@
 - Document guidelines for clean code and responsible for consistent/improved developer experience in VS Code as the team grew larger.
 
 ### **Technology Stack:**
-- **Frameworks and Run Time:** Nx Nrwl, ReactJS, Angular 14/15, NestJS/NodeJS
+- **Frameworks and Run Time:** ReactJS, Angular 14/15, NestJS/NodeJS, Nx Nrwl,
 - **Tooling:** TypeScript, SCSS
 - **Core:** HTML5, CSS3, JavaScript
 - **Cloud:** GCP/Azure
@@ -84,9 +84,9 @@
 - Prepare tests for evaluating the training knowledge
 
 ### **Technologies I delivered training on:**
+- **Frameworks and Libraries:** ReactJS, Angular, jQuery
 - **Core:** HTML5, CSS3, JavaScript
 - **Tooling:** SCSS, TypeScript, Bootstrap 4
-- **Frameworks and Libraries:** ReactJS, Angular, jQuery
 - **Run Time:** NodeJS
 
 ### **Project:** MasterCard Design Framework (Oct 2019 – Jan, 2020)
@@ -98,6 +98,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Introduced CUBE CSS – Composition, Utility, Block and Element methodology to write less component specific styles and more of generic styles.
 
 ### **Technology Stack:**
+- **Frameworks and Libraries**: ReactJS
 - **Core:** CSS3
 - **Methodology:** CUBE CSS
 - **Tooling:** SCSS
@@ -116,7 +117,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Implemented Accessibility (AA compliance) in the internet banking application. Setup mechanisms to test accessibility on VoiceOver and JAWS
 
 ### **Technology Stack:**
-- **Frameworks and Run Time:** Angular, AEM
+- **Frameworks and Run Time:** ReactJS, Angular, AEM
 - **Tooling:** TypeScript, SCSS
 - **Core:** HTML5, CSS3, JavaScript
 - **Libraries:** MomentJS, AppDynamics
@@ -129,12 +130,11 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 
 ### **Key Roles and Responsibilities:**
 - I helped migrate their Angular 1.x portal to Angular 2 and subsequently upgrading to Angular 4.
-- I helped build responsive and accessible websites that were customer facing.
-- I lead the team for 3 months through the bug triages which helped address 300 bugs across the system by prioritizing them, interacting with clients on their expectations and interacting with different teams. This helped me gain more knowledge about the system.
-- I trained my colleagues on Angular framework features.
+- I helped build responsive and accessible websites that were customer facing using ReactJS.
+- I lead the team for 3 months through the bug triages which helped address legacy system bugs across the system by prioritizing them, interacting with clients on their expectations and interacting with different teams. This helped me gain more knowledge about the system.
 
 ### Technology Stack:
-- **Framework:** Angular 1.x, Angular 2/4, AureliaJS
+- **Framework:** Angular 1.x, Angular 2/4, ReactJS
 - **Core:** HTML5, CSS3, JavaScript
 - **Tooling:** TypeScript, SCSS
 
@@ -163,17 +163,3 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Google Glass
 - Aurdino/RaspberryPi
 ----
-<!--
-**ankitbtanna/ankitbtanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
