@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Fullstack Developer - Angular/ReactJS & NodeJS developer
+  Fullstack Developer - ReactJS/Angular & NodeJS developer
 </h2>
 
 #### :telephone_receiver: +61 431 961 791
