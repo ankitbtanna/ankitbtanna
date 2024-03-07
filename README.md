@@ -31,7 +31,6 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node-green?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-lightblue?style=for-the-badge)
@@ -41,6 +40,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-lightgreen?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-maroon?style=for-the-badge)
 ![NxNrwl](https://img.shields.io/badge/NxNrwl-darkblue?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge)
 
 ----
 ### Education and Certifications
@@ -69,7 +69,7 @@
 - Used Rust for developing post processing tools
 
 ### **Technology Stack:**
-- **Frameworks and Run Time:** Nx Nrwl, Angular 14/15, NestJS/NodeJS
+- **Frameworks and Run Time:** Nx Nrwl, ReactJS, Angular 14/15, NestJS/NodeJS
 - **Tooling:** TypeScript, SCSS
 - **Core:** HTML5, CSS3, JavaScript
 - **Cloud:** GCP/Azure
@@ -77,19 +77,17 @@
 ----
 <p align="center"><img src="https://companieslogo.com/img/orig/ZENSARTECH.NS_BIG-943eb02e.png" style="height:150px"/></p>
 
-*I decided to join Zensar to take a break from delivery projects and work on training as a full time. Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.*
+*Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.*
 
 ### **Key Roles and Responsibilities:**
 - Design curriculum for Freshers and Experienced professionals for generic/project specific training
 - Deliver trainings for a batch of 20-30 people for varied durations ranging from 1 week to 6/8 weeks.
-- Prepare course material for smooth training delivery
-- Develop course content that can be comprehended by trainees who are very new to code and prepare functional use cases for experienced who are looking to understand the feature of a language/framework.
 - Prepare tests for evaluating the training knowledge
 
 ### **Technologies I delivered training on:**
 - **Core:** HTML5, CSS3, JavaScript
 - **Tooling:** SCSS, TypeScript, Bootstrap 4
-- **Frameworks and Libraries:** Angular, jQuery
+- **Frameworks and Libraries:** ReactJS, Angular, jQuery
 - **Run Time:** NodeJS
 
 ### **Project:** MasterCard Design Framework (Oct 2019 – Jan, 2020)
