@@ -66,7 +66,6 @@
 - Review code quality for enhanced code readability, reusability, and performance improvement.
 - Conduct Technical/Domain knowledge sessions.
 - Document guidelines for clean code and responsible for consistent/improved developer experience in VS Code as the team grew larger.
-- Used Rust for developing post processing tools
 
 ### **Technology Stack:**
 - **Frameworks and Run Time:** Nx Nrwl, ReactJS, Angular 14/15, NestJS/NodeJS
