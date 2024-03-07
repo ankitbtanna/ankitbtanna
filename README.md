@@ -28,8 +28,8 @@
 ----
 ### Skills
 
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node-green?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
