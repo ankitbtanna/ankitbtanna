@@ -88,7 +88,7 @@
 - **Cloud:** GCP/Azure
 
 ----
-<p align="center"><img src="https://companieslogo.com/img/orig/ZENSARTECH.NS_BIG-943eb02e.png" style="height:150px"/></p>
+<p align="center"><img src="https://companieslogo.com/img/orig/ZENSARTECH.NS_BIG-943eb02e.png" style="height:100px"/></p>
 
 *Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.*
 
