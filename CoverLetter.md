@@ -20,9 +20,7 @@ As a Front-End SME, I provided significant input to business by working on estim
 I also led the Advanced Angular Training program to help various projects scale up their existing developers' skills. I redesigned and evaluated Angular courses covering topics from basic concepts to advanced techniques like HTTPClient, RxJS, Advanced TypeScript, Routing, and SOLID principles.
 
 ### **Professional Visibility**
-I provided technology solutions focused on structuring, managing, and implementing complex solutions. I have modernized systems, leveraging emerging technologies important to clients such as Progressive Web Apps, accessibility testing, and emerging architecture patterns.
-
-I also participated in a Design Thinking workshop with an oil and gas client, where I proposed a Voice controlled UI interface. My contributions led to the incorporation of two major features in their product roadmap: a geofencing feature and voice-controlled UI for web applications. My expertise in this area led to recognition as a developer for both Web and KIOSK, with appreciation shared by oil and gas clients.
+I have modernized systems, leveraging emerging technologies important to clients such as Progressive Web Apps, accessibility testing, and emerging architecture patterns. I also participated in a Design Thinking workshop with an oil and gas client, where I proposed a Voice controlled UI interface. My contributions led to the incorporation a feature in their product roadmap: voice-controlled UI for web applications. My expertise in this area led to recognition as a developer for both Web, with appreciation shared by oil and gas clients.
 
 With my technical expertise, proven mentorship abilities, I am confident I can make a significant contribution to your team.
 
