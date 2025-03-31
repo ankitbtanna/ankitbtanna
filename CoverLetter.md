@@ -5,7 +5,7 @@ Hello Morris,
 I am writing to express my interest in the Lead role at Rio Tinto. With a proven track record in technical leadership and a passion for building high-performing products, I believe my experience will align with the requirements of this position. I am listing my experience divided into several sections below:
 
 ### **Mentorship**
-My approach to leadership centers on effective mentorship. While at Schlumberger, I directly supervised and guided team members like Deobrat Singh and Shalini Bhandare to successfully deliver the Data Ops screen for Shape and ZGY File ingestion workflows. I made them proficient in Angular, RxJS, and state management concepts, enabling them to work independently on complex technical challenges.
+My approach to day to day work relies on effective mentorship. While at SLB, I guided team members like Deobrat Singh and Shalini Bhandare to successfully deliver the Data Ops screen for Shape and ZGY File ingestion workflows. I made them proficient in React and state management concepts, enabling them to work independently on complex technical challenges.
 
 My technical expertise spans multiple areas critical to modern application development. As an Angular/React Developer with over a decade of experience, I've worked extensively with various versions, developing applications for various clients and platforms, including a large commercial bank and a major oil and gas provider.
 
