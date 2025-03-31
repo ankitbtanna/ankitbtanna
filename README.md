@@ -55,7 +55,20 @@
 ----
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" style="height:150px"/></p>
 
-### **Project:** Data Workspace (Jan 2020 – Present)
+### **Project:** MSF (June 2024 - Present)
+*MSF, Maintenance Shut Forum, was built from ground up to replace a product working on legacy infrastructure. It helps planners schedule shuts across various sites linked directly or indirectly with the mines. It helps planners visualise the shuts across different visualizers like gantt chart, calendar. It also has multi-level approval workflow built in enabling site managers to review the shuts scheduled at their sites.*
+
+### **Key Roles and Responsibilities:**
+- Develop and deliver functionalities across the application
+- Translate complex business logic into code
+- Provide infrastructure related suggestions for developing the application
+- Integrate SignarR to establish real-time communication from back-end to front-end and vice-versa
+- Review code quality, enhace reusability and readability and improve performance
+
+----
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" style="height:150px"/></p>
+
+### **Project:** Data Workspace (Jan 2020 – May 2024)
 *Data Workspace offers an intelligent, single, shared, living ecosystem that spans the entire E&P lifecycle for Oil and Gas industry. This web application allows users to ingest data in several formats, standardize them, run the data through quality checks for curating high quality data, search/browse/visualize data in various viewers including map, document, log, charts, etc.*
 
 ### **Key Roles and Responsibilities:**
