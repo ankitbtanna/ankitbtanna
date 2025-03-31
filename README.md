@@ -53,7 +53,7 @@
 * #### Certified Scrum Master - *LeanPitch*
 
 ----
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" style="height:150px"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rio_Tinto_%28corporation%29_Logo.svg/738px-Rio_Tinto_%28corporation%29_Logo.svg.png" style="height:150px"/></p>
 
 ### **Project:** MSF (June 2024 - Present)
 *MSF, Maintenance Shut Forum, was built from ground up to replace a product working on legacy infrastructure. It helps planners schedule shuts across various sites linked directly or indirectly with the mines. It helps planners visualise the shuts across different visualizers like gantt chart, calendar. It also has multi-level approval workflow built in enabling site managers to review the shuts scheduled at their sites.*
