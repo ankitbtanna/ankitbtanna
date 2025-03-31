@@ -65,6 +65,12 @@
 - Integrate SignarR to establish real-time communication from back-end to front-end and vice-versa
 - Review code quality, enhace reusability and readability and improve performance
 
+### **Technology Stack:**
+- **Frameworks and Run Time:** ReactJS, C# .Net,
+- **Tooling:** TypeScript, SCSS
+- **Core:** HTML5, CSS3, JavaScript
+- **Cloud:** Azure
+
 ----
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" style="height:150px"/></p>
 
