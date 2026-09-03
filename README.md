@@ -47,7 +47,7 @@
 * #### Certified Scrum Master - *LeanPitch*
 
 ----
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rio_Tinto_%28corporation%29_Logo.svg/738px-Rio_Tinto_%28corporation%29_Logo.svg.png" style="height:50px"/></p>
+<p align="center">Rio Tinto - Mining</p>
 
 ### **Project:** Mine Water Management (July 2025 - Present)
 *Mine Water Management is an application for tracking downtimes at mine sites due to extraction of water via bores in mine sites. It provides the ability to plan for future quarters in advance and plan shuts based on it. Multi-site data is segregated and managed separately using multi-tenancy, with each mine site's data held in a separate managed database to optimise similarity search performance.*
@@ -67,7 +67,7 @@
 - Review code quality, enhace reusability and readability and improve performance
 
 ----
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" style="height:150px"/></p>
+<p align="center">SLB - Oil and Gas</p>
 
 ### **Project:** Data Workspace (Jan 2020 – May 2024)
 *Data Workspace offers an intelligent, single, shared, living ecosystem that spans the entire E&P lifecycle for Oil and Gas industry. This web application allows users to ingest data in several formats, standardize them, run the data through quality checks for curating high quality data, search/browse/visualize data in various viewers including map, document, log, charts, etc.*
@@ -83,7 +83,7 @@
 - Document guidelines for clean code and responsible for consistent/improved developer experience in VS Code as the team grew larger.
 
 ----
-<p align="center"><img src="https://companieslogo.com/img/orig/ZENSARTECH.NS_BIG-943eb02e.png" style="height:100px"/></p>
+<p align="center">Zensar - Services</p>
 
 *Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.*
 
@@ -101,7 +101,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Introduced CUBE CSS – Composition, Utility, Block and Element methodology to write less component specific styles and more of generic styles.
 
 ----
-<p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p>
+<p align="center">HSBC - Banking</p>
 
 ### **Project:** HSBC Internet Banking (Sep 2017 – Nov, 2018)
 *HSBC Internet Banking project was an initiative to roll out enhanced user experience along with new banking features to their customers across 70 countries. Prime focus was on developing authorable components giving control to the business of the functionality of the components.*
@@ -115,7 +115,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Implemented Accessibility (AA compliance) in the internet banking application. Setup mechanisms to test accessibility on VoiceOver and JAWS
 
 ----
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/640px-Accenture.svg.png" style="height:150px"/></p>
+<p align="center">Accenture - Services</p>
 
 ### **Project:** Sky Mobile - BSKYB (Jan 2016 – Sep, 2017)
 *BSKYB was venturing into telecommunications by introducing their mobile plans. I worked on their portal for client service representatives which helped manage influx of queries and complaints that customer had. I also worked on their customer-facing website sky.com which was the primary website representing the BSKYB brand. I worked at their client location in Edinburgh, UK giving me first-hand exposure to working with clients.*
