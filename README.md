@@ -9,7 +9,6 @@
 #### :telephone_receiver: +61 431 961 791
 #### :e-mail: ankittanna@hotmail.com 
 #### :pushpin: Brisbane, QLD, Australia
-#### :passport_control: Work Permit: PR Holder :white_check_mark:, Sponsorship required: No :negative_squared_cross_mark:
 ----
 <p style="font-weight:400;font-size:30px">I’m a motivated individual with 11+ years of experience in Frontend/NodeJS application development. I have worked in several domains like Banking, Oil and Gas, eLearning, eCommerce, etc. I have played roles like developer, scrum master and trainer. I like to be familiar with design patterns and features of core programming languages helping me solve daily problems.
 
