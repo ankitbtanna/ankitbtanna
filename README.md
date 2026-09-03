@@ -53,7 +53,7 @@
 *Mine Water Management is an application for tracking downtimes at mine sites due to extraction of water via bores in mine sites. It provides the ability to plan for future quarters in advance and plan shuts based on it. Multi-site data is segregated and managed separately using multi-tenancy, with each mine site's data held in a separate managed database to optimise similarity search performance.*
 
 ### **Key Roles and Responsibilities:**
-- Design and develop application functionality for tracking mine site water extraction downtimes and future-quarter shut planning
+- Design and develop application functionality for tracking mine site water extraction downtimes and quarterly planning. Show site wise data for extracted water by bores, downtimes across site and allow quarterly planning of water extractions for sites based on downtimes and shuts. 
 - Architect multi-tenant data segregation, managing each mine site's data in a separate database to optimise Approximate Nearest Neighbor (ANN)-based similarity search performance
 
 ### **Project:** MSF (June 2024 - June 2025)
