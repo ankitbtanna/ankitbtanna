@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Fullstack Developer - ReactJS/Angular & NodeJS developer
+  Fullstack Developer - ReactJS/Angular & NodeJS developer | GenAI Developer
 </h2>
 
 #### :telephone_receiver: +61 431 961 791
@@ -125,12 +125,6 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Demonstrate the application to wider audience in Accenture
 - Lead the effort to build a Desktop sync utility to save data for users
 - Increase usability of the application by adding offline mode where content can be accessed if user does not have internet.
-
 ----
-**Accenture Innovation Factory:** During my 5-year tenure at Accenture, I was part of innovation factory which worked with JavaScript SDKs and IoT devices.
-- LEAP Motion
-- Myo Armband
-- Oculus Rift
-- Google Glass
-- Aurdino/RaspberryPi
+**Accenture Innovation Factory:** During my 5-year tenure at Accenture, I was part of innovation factory which worked with JavaScript SDKs and IoT devices like LEAP Motion, Myo Armband, Oculus Rift, Google Glass and RaspberryPi.
 ----
