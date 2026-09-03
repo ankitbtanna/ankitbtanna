@@ -47,7 +47,7 @@
 * #### Certified Scrum Master - *LeanPitch*
 
 ----
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rio_Tinto_%28corporation%29_Logo.svg/738px-Rio_Tinto_%28corporation%29_Logo.svg.png" style="height:100px"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rio_Tinto_%28corporation%29_Logo.svg/738px-Rio_Tinto_%28corporation%29_Logo.svg.png" style="height:50px"/></p>
 
 ### **Project:** Mine Water Management (July 2025 - Present)
 *Mine Water Management is an application for tracking downtimes at mine sites due to extraction of water via bores in mine sites. It provides the ability to plan for future quarters in advance and plan shuts based on it. Multi-site data is segregated and managed separately using multi-tenancy, with each mine site's data held in a separate managed database to optimise similarity search performance.*
