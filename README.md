@@ -10,7 +10,7 @@
 #### :e-mail: ankittanna@hotmail.com 
 #### :pushpin: Brisbane, QLD, Australia
 ----
-<p style="font-weight:400;font-size:30px">I’m a motivated individual with 11+ years of experience in Frontend/NodeJS application development. I have worked in several domains like Mining, Banking, Oil and Gas, eLearning, eCommerce, etc. I have played roles like developer, scrum master and trainer. I like to be familiar with design patterns and features of core programming languages helping me solve daily problems.
+<p style="font-weight:400;font-size:30px">I’m a motivated individual with 14+ years of experience in Frontend/NodeJS application development. I have worked in several domains like Mining, Banking, Oil and Gas, eLearning, eCommerce, etc. I have played roles like developer, scrum master and trainer. I like to be familiar with design patterns and features of core programming languages helping me solve daily problems. I'm known for driving improvements in code quality and structure, championing modernisation efforts within the teams I join, and mentoring and empowering colleagues to grow their skills through open, collaborative discussion.
 
 <p style="font-weight:400;font-size:30px">My Medium Articles: <a href="https://medium.com/@ankitbtanna/">Medium: Ankit Tanna</a>.</p>
 
@@ -26,21 +26,16 @@
 | Accenture                      | Fresher to Team Lead         | May 2012 – September 2017      |
 
 ----
-### Skills
+### Technology Stack
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/Node-green?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-lightblue?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge)
-![SCSS](https://img.shields.io/badge/SCSS-orange?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-darkred?style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-lightgreen?style=for-the-badge)
-![Jest](https://img.shields.io/badge/Jest-maroon?style=for-the-badge)
-![NxNrwl](https://img.shields.io/badge/NxNrwl-darkblue?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge)
+- **Frameworks and Run Time:** ReactJS, Angular (1.x, 2/4, 14/15), NodeJS, NestJS, C# .Net, PhoneGap/Cordova, AEM
+- **Tooling:** TypeScript, SCSS, Nx Nrwl, Bootstrap (3/4)
+- **Core:** HTML5, CSS3, JavaScript
+- **Testing:** Cypress, Jest
+- **Cloud:** Azure, GCP
+- **GenAI:** Vector Databases (Milvus - primary; Pinecone, PGVector, Weaviate, Chroma, MongoDB Atlas - PoCs), RAG (Retrieval-Augmented Generation), Approximate Nearest Neighbor (ANN) search
+- **Developer Experience:** Claude Code - built custom skills for PR review, release notes generation, auto-fixing PR review comments, writing tests, manual test execution for scenarios, and documenting test cases for automation
+- **Other:** Rust, MomentJS, AppDynamics, CUBE CSS
 
 ----
 ### Education and Certifications
@@ -54,7 +49,14 @@
 ----
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Rio_Tinto_%28corporation%29_Logo.svg/738px-Rio_Tinto_%28corporation%29_Logo.svg.png" style="height:100px"/></p>
 
-### **Project:** MSF (June 2024 - Present)
+### **Project:** Mine Water Management (July 2025 - Present)
+*Mine Water Management is an application for tracking downtimes at mine sites due to extraction of water via bores in mine sites. It provides the ability to plan for future quarters in advance and plan shuts based on it. Multi-site data is segregated and managed separately using multi-tenancy, with each mine site's data held in a separate managed database to optimise similarity search performance.*
+
+### **Key Roles and Responsibilities:**
+- Design and develop application functionality for tracking mine site water extraction downtimes and future-quarter shut planning
+- Architect multi-tenant data segregation, managing each mine site's data in a separate database to optimise Approximate Nearest Neighbor (ANN)-based similarity search performance
+
+### **Project:** MSF (June 2024 - June 2025)
 *MSF, Maintenance Shut Forum, was built from ground up to replace a product working on legacy infrastructure. It helps planners schedule shuts across various sites linked directly or indirectly with the mines. It helps planners visualise the shuts across different visualizers like gantt chart, calendar. It also has multi-level approval workflow built in enabling site managers to review the shuts scheduled at their sites.*
 
 ### **Key Roles and Responsibilities:**
@@ -63,12 +65,6 @@
 - Provide infrastructure related suggestions for developing the application
 - Integrate SignarR to establish real-time communication from back-end to front-end and vice-versa
 - Review code quality, enhace reusability and readability and improve performance
-
-### **Technology Stack:**
-- **Frameworks and Run Time:** ReactJS, C# .Net,
-- **Tooling:** TypeScript, SCSS
-- **Core:** HTML5, CSS3, JavaScript
-- **Cloud:** Azure
 
 ----
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/640px-SLB_Logo_2022.svg.png" style="height:150px"/></p>
@@ -86,12 +82,6 @@
 - Conduct Technical/Domain knowledge sessions.
 - Document guidelines for clean code and responsible for consistent/improved developer experience in VS Code as the team grew larger.
 
-### **Technology Stack:**
-- **Frameworks and Run Time:** ReactJS, Angular 14/15, NestJS/NodeJS, Nx Nrwl,
-- **Tooling:** TypeScript, SCSS
-- **Core:** HTML5, CSS3, JavaScript
-- **Cloud:** GCP/Azure
-
 ----
 <p align="center"><img src="https://companieslogo.com/img/orig/ZENSARTECH.NS_BIG-943eb02e.png" style="height:100px"/></p>
 
@@ -102,12 +92,6 @@
 - Deliver trainings for a batch of 20-30 people for varied durations ranging from 1 week to 6/8 weeks.
 - Prepare tests for evaluating the training knowledge
 
-### **Technologies I delivered training on:**
-- **Frameworks and Libraries:** ReactJS, Angular, jQuery
-- **Core:** HTML5, CSS3, JavaScript
-- **Tooling:** SCSS, TypeScript, Bootstrap 4
-- **Run Time:** NodeJS
-
 ### **Project:** MasterCard Design Framework (Oct 2019 – Jan, 2020)
 MasterCard Design Framework was started as one of the projects under the rebranding effort of all the MasterCard products/portals which were online. This meant that look and feel would be consistent across the portals around the world.
 
@@ -116,11 +100,6 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Designed SCSS architecture structure for their style framework as a part of their portal rebranding effort.
 - Introduced CUBE CSS – Composition, Utility, Block and Element methodology to write less component specific styles and more of generic styles.
 
-### **Technology Stack:**
-- **Frameworks and Libraries**: ReactJS
-- **Core:** CSS3
-- **Methodology:** CUBE CSS
-- **Tooling:** SCSS
 ----
 <p align="center"><img src="https://logos-world.net/wp-content/uploads/2021/02/HSBC-Logo-700x394.png" style="height:150px"/></p>
 
@@ -135,12 +114,6 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Integrated AppDynamics and XMatters to track user journey and API performance degradations or failures.
 - Implemented Accessibility (AA compliance) in the internet banking application. Setup mechanisms to test accessibility on VoiceOver and JAWS
 
-### **Technology Stack:**
-- **Frameworks and Run Time:** ReactJS, Angular, AEM
-- **Tooling:** TypeScript, SCSS
-- **Core:** HTML5, CSS3, JavaScript
-- **Libraries:** MomentJS, AppDynamics
-
 ----
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/640px-Accenture.svg.png" style="height:150px"/></p>
 
@@ -151,11 +124,6 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - I helped migrate their Angular 1.x portal to Angular 2 and subsequently upgrading to Angular 4.
 - I helped build responsive and accessible websites that were customer facing using ReactJS.
 - I lead the team for 3 months through the bug triages which helped address legacy system bugs across the system by prioritizing them, interacting with clients on their expectations and interacting with different teams. This helped me gain more knowledge about the system.
-
-### Technology Stack:
-- **Framework:** Angular 1.x, Angular 2/4, ReactJS
-- **Core:** HTML5, CSS3, JavaScript
-- **Tooling:** TypeScript, SCSS
 
 ### **Project:** TechTime (May 2012 – Dec, 2015)
 *TechTime ecosystem is an eLearning tool of Accenture where leaders of various Accenture Businesses talk about their experiences with latest technologies and how it shapes the industry. The ecosystem comprised of Hybrid Mobile Applications for iOS, Android and Windows phone, a website and a desktop application for downloading and syncing videos to mobile.*
@@ -168,11 +136,6 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Demonstrate the application to wider audience in Accenture
 - Lead the effort to build a Desktop sync utility to save data for users
 - Increase usability of the application by adding offline mode where content can be accessed if user does not have internet.
-
-### Technology Stack:
-- **Framework:** Angular 1.x, PhoneGap/Cordova
-- **Core:** HTML5, CSS3, JavaScript
-- **Library:** Bootstrap
 
 ----
 **Accenture Innovation Factory:** During my 5-year tenure at Accenture, I was part of innovation factory which worked with JavaScript SDKs and IoT devices.
