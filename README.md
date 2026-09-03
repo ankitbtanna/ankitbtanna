@@ -41,22 +41,18 @@ I’m a motivated individual with 14+ years of experience in Frontend/NodeJS app
 ### Education and Certifications
 
 * #### Bachelor’s in technology, Computer Engineering - *University: NMIMS-MPSTME, Shirpur, Maharashtra*
-
 * #### AWS Certified Cloud Practitioner - *AWS*
-
 * #### Certified Scrum Master - *LeanPitch*
 
 ----
-## <p align="center">Rio Tinto - Mining</p>
-
-### **Project:** Mine Water Management (July 2025 - Present)
+### [Rio Tinto - Mining] **Project:** Mine Water Management (July 2025 - Present)
 *Mine Water Management is an application for tracking downtimes at mine sites due to extraction of water via bores in mine sites. It provides the ability to plan for future quarters in advance and plan shuts based on it. Multi-site data is segregated and managed separately using multi-tenancy, with each mine site's data held in a separate managed database to optimise similarity search performance.*
 
 ### **Key Roles and Responsibilities:**
 - Design and develop application functionality for tracking mine site water extraction downtimes and quarterly planning. Show site wise data for extracted water by bores, downtimes across site and allow quarterly planning of water extractions for sites based on downtimes and shuts. 
 - Architect multi-tenant data segregation, managing each mine site's data in a separate database to optimise Approximate Nearest Neighbor (ANN)-based similarity search performance
 
-### **Project:** MSF (June 2024 - June 2025)
+### [Rio Tinto - Mining] **Project:** MSF (June 2024 - June 2025)
 *MSF, Maintenance Shut Forum, was built from ground up to replace a product working on legacy infrastructure. It helps planners schedule shuts across various sites linked directly or indirectly with the mines. It helps planners visualise the shuts across different visualizers like gantt chart, calendar. It also has multi-level approval workflow built in enabling site managers to review the shuts scheduled at their sites.*
 
 ### **Key Roles and Responsibilities:**
@@ -67,9 +63,7 @@ I’m a motivated individual with 14+ years of experience in Frontend/NodeJS app
 - Review code quality, enhace reusability and readability and improve performance
 
 ----
-## <p align="center">SLB - Oil and Gas</p>
-
-### **Project:** Data Workspace (Jan 2020 – May 2024)
+### [SLB - Oil and Gas] **Project:** Data Workspace (Jan 2020 – May 2024)
 *Data Workspace offers an intelligent, single, shared, living ecosystem that spans the entire E&P lifecycle for Oil and Gas industry. This web application allows users to ingest data in several formats, standardize them, run the data through quality checks for curating high quality data, search/browse/visualize data in various viewers including map, document, log, charts, etc.*
 
 ### **Key Roles and Responsibilities:**
@@ -83,16 +77,15 @@ I’m a motivated individual with 14+ years of experience in Frontend/NodeJS app
 - Document guidelines for clean code and responsible for consistent/improved developer experience in VS Code as the team grew larger.
 
 ----
-## <p align="center">Zensar - Services</p>
-
-*Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.*
+### [Zensar - Services] **Project:** Training (Nov 2018 - Oct 2019)
 
 ### **Key Roles and Responsibilities:**
 - Design curriculum for Freshers and Experienced professionals for generic/project specific training
 - Deliver trainings for a batch of 20-30 people for varied durations ranging from 1 week to 6/8 weeks.
+- Zensar’s Learning and Development team had offered me freshers and experienced professionals given my background of training delivery in previous organizations and trials. I built courses for beginners and intermediate usage along with project specific trainings.
 - Prepare tests for evaluating the training knowledge
 
-### **Project:** MasterCard Design Framework (Oct 2019 – Jan, 2020)
+### [Zensar - Services] **Project:** MasterCard Design Framework (Oct 2019 – Jan, 2020)
 MasterCard Design Framework was started as one of the projects under the rebranding effort of all the MasterCard products/portals which were online. This meant that look and feel would be consistent across the portals around the world.
 
 ### **Key Roles and Responsibilities:**
@@ -101,9 +94,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Introduced CUBE CSS – Composition, Utility, Block and Element methodology to write less component specific styles and more of generic styles.
 
 ----
-## <p align="center">HSBC - Banking</p>
-
-### **Project:** HSBC Internet Banking (Sep 2017 – Nov, 2018)
+### [HSBC - Banking] **Project:** HSBC Internet Banking (Sep 2017 – Nov, 2018)
 *HSBC Internet Banking project was an initiative to roll out enhanced user experience along with new banking features to their customers across 70 countries. Prime focus was on developing authorable components giving control to the business of the functionality of the components.*
 
 ### **Key Roles and Responsibilities:**
@@ -115,9 +106,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - Implemented Accessibility (AA compliance) in the internet banking application. Setup mechanisms to test accessibility on VoiceOver and JAWS
 
 ----
-## <p align="center">Accenture - Services</p>
-
-### **Project:** Sky Mobile - BSKYB (Jan 2016 – Sep, 2017)
+### [Accenture - Services] **Project:** Sky Mobile - BSKYB (Jan 2016 – Sep, 2017)
 *BSKYB was venturing into telecommunications by introducing their mobile plans. I worked on their portal for client service representatives which helped manage influx of queries and complaints that customer had. I also worked on their customer-facing website sky.com which was the primary website representing the BSKYB brand. I worked at their client location in Edinburgh, UK giving me first-hand exposure to working with clients.*
 
 ### **Key Roles and Responsibilities:**
@@ -125,7 +114,7 @@ MasterCard Design Framework was started as one of the projects under the rebrand
 - I helped build responsive and accessible websites that were customer facing using ReactJS.
 - I lead the team for 3 months through the bug triages which helped address legacy system bugs across the system by prioritizing them, interacting with clients on their expectations and interacting with different teams. This helped me gain more knowledge about the system.
 
-### **Project:** TechTime (May 2012 – Dec, 2015)
+### [Accenture - Services] **Project:** TechTime (May 2012 – Dec, 2015)
 *TechTime ecosystem is an eLearning tool of Accenture where leaders of various Accenture Businesses talk about their experiences with latest technologies and how it shapes the industry. The ecosystem comprised of Hybrid Mobile Applications for iOS, Android and Windows phone, a website and a desktop application for downloading and syncing videos to mobile.*
 
 ### **Key Roles and Responsibilities:**
