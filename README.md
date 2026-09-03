@@ -10,9 +10,9 @@
 #### :e-mail: ankittanna@hotmail.com 
 #### :pushpin: Brisbane, QLD, Australia
 ----
-<p style="font-weight:400;font-size:30px">I’m a motivated individual with 14+ years of experience in Frontend/NodeJS application development. I have worked in several domains like Mining, Banking, Oil and Gas, eLearning, eCommerce, etc. I have played roles like developer, scrum master and trainer. I like to be familiar with design patterns and features of core programming languages helping me solve daily problems. I'm known for driving improvements in code quality and structure, championing modernisation efforts within the teams I join, and mentoring and empowering colleagues to grow their skills through open, collaborative discussion.
+I’m a motivated individual with 14+ years of experience in Frontend/NodeJS application development. I have worked in several domains like Mining, Banking, Oil and Gas, eLearning, eCommerce, etc. I have played roles like developer, scrum master and trainer. I like to be familiar with design patterns and features of core programming languages helping me solve daily problems. I'm known for driving improvements in code quality and structure, championing modernisation efforts within the teams I join, and mentoring and empowering colleagues to grow their skills through open, collaborative discussion.
 
-<p style="font-weight:400;font-size:30px">My Medium Articles: <a href="https://medium.com/@ankitbtanna/">Medium: Ankit Tanna</a>.</p>
+<p style="font-weight:400;font-size:20px">My Medium Articles: <a href="https://medium.com/@ankitbtanna/">Medium: Ankit Tanna</a>.</p>
 
 ----
 ### Work Experience
